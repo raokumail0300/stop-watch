@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+
+
+.stop-w{
+    margin-left: 39%;
+    font-size: 70px;
+    margin-top: 150px;
+    /* background-color: blanchedalmond; */
+}
+
+
+.second-div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+.h1{
+    margin-left: 20px;
+    font-size: 45px;
+    /* margin-top:15%; */
+    padding: 30px;
+    color: rgba(0, 0, 0, 0.712);
+    background-color:rgba(88, 89, 97, 0.541);
+    width: 50px;
+}
+
+
+
+
+.btn-div{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+
+
+.btn{
+     font-size: 29px;
+     margin: 20px;
+}
